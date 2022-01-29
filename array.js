@@ -15,7 +15,12 @@ var favouriteLanguage = 'My favourite Progamming Language are: ' + web[2] + ' an
 // console.log(jsIndex);
 // console.log(element);
 // console.log(favouriteLanguage);
-evenNumber[1] = 20;
-console.log(evenNumber);
+// evenNumber[1] = 20;
+// console.log(evenNumber[2]);
+
+// var a = evenNumber.indexOf(0);
+// var b = evenNumber.indexOf(1);
+console.log(evenNumber.indexOf(0));
+console.log(evenNumber.indexOf(1));
 
 
