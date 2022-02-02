@@ -11,5 +11,10 @@
 // for (var i = 0; i < userId.length; i++) {
 //     console.log(userId[i]);
 // }
-var name = 'shakil';
-console.log(typeof name);
+function addNumber(number1, number2) {
+    return "Result is " + number1 + number2;
+}
+
+var result = addNumber(5, 4);
+console.log(result);
+console.log(typeof result);
